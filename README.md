@@ -10,8 +10,6 @@ I knew this was a passage I should follow.
 
 Here I am, Oct 15, 2024, starting my own journey.
 
----
-
 # Why bother writing at all?
 
 1. As I encounter more and more concepts, errors, and documents, it is hard to keep track of them all.
